@@ -1,5 +1,8 @@
 # OPRProgrammer 05/09/2026();
 
+
+https://archive.org/details/tn11.mp3
+
 #	Ferramenta	Programa
 1	GitLens	VS Code
 2	Prettier	VS Code
